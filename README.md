@@ -39,7 +39,7 @@ I'm a developer in training with studies at SENA and UNAD. I am passionate about
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) 
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) 
 ![C Sharp](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
-![php]![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 **Tools and Frameworks:** 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) 
