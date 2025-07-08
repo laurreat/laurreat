@@ -23,7 +23,7 @@ Soy un desarrollador en formación con estudios en el SENA y la UNAD. Me apasion
 
 ## 📚 Actualmente estoy aprendiendo:
 
-- React.js y Tailwind CSS  
+- C#, .NET
 - Ciberseguridad básica y pruebas de penetración  
 - Principios de diseño UX/UI con Figma  
 - Desarrollo de videojuegos (Unity y Godot, en exploración)  
@@ -36,13 +36,19 @@ Soy un desarrollador en formación con estudios en el SENA y la UNAD. Me apasion
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)  
+![C Sharp](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
 
 **Herramientas y Frameworks:**  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)  
+![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white)  
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=Canva&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white)
 
 ---
 
@@ -61,8 +67,7 @@ Soy un desarrollador en formación con estudios en el SENA y la UNAD. Me apasion
 ## 📫 Cómo contactarme
 
 - 📍 Florencia, Caquetá (Colombia)  
-- 📧 luisalberto.ut@email.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-nombre-si-tienes/) *(opcional)*
+- 📧 luis2005.320@gmail.com
 
 ---
 
@@ -72,12 +77,10 @@ Soy un desarrollador en formación con estudios en el SENA y la UNAD. Me apasion
 
 ---
 
-## ⚙️ Estadísticas de GitHub
-
-<p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=luisurreadev&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=luisurreadev&theme=tokyonight"/>
-</p>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
+  <p align="center"><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=alamin-babu&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
+  <p align="center"><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=alamin-babu&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
+<br>
 
 ---
 
