@@ -12,7 +12,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4A90E2&center=true&vCenter=true&width=750&lines=Software+Development+Technologist;Multimedia+Engineering+Student;Technology+%26+Video+Game+Lover;Passionate+about+Learning+%26+Creating" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4A90E2&center=true&vCenter=true&width=750&lines=Software+Developer;Full-Stack+Engineer;Multimedia+Engineering+Student;Technology+%26+Video+Game+Lover" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -29,16 +29,17 @@
 ## ⚡ About Me
 
 <div style="background:#0d1117; border:1px solid #30363d; border-radius:12px; padding:20px;">
-  <p>🚀 <strong>Developer in training</strong> with studies at <strong>SENA</strong> and <strong>UNAD</strong>. Passionate about creating digital solutions combining <strong>web development</strong>, <strong>multimedia design</strong> and <strong>logical thinking</strong>.</p>
-  <p>I dream of growing as a programmer, designer, gamer and future <strong>mechatronics engineer</strong>. I also explore cybersecurity, psychology and music.</p>
+  <p>🚀 <strong>Software Developer</strong> with professional experience at <strong>SENA</strong> (Servicio Nacional de Aprendizaje, Colombia) and studies at <strong>UNAD</strong>. Passionate about building scalable digital solutions, multimedia design, and full-stack development.</p>
+  <p>I combine <strong>web development</strong>, <strong>backend engineering</strong>, and <strong>DevOps basics</strong> to create complete products. Currently exploring game development and mechatronics.</p>
 
   <table align="center">
     <tr>
       <td width="50%" valign="top">
         <ul>
-          <li>🎮 Video game fanatic — analyzing mechanics and game design</li>
+          <li>🎮 Video game fanatic — mechanics & game design analysis</li>
           <li>🎧 Music production enthusiast — instruments & creative arts</li>
-          <li>🌐 Always learning new technologies</li>
+          <li>🌐 Building real-world solutions at SENA Caquetá</li>
+          <li>📺 Sharing demos on my <a href="https://youtube.com/@luKshaDEV">YouTube channel</a></li>
         </ul>
       </td>
       <td width="50%" valign="top">
@@ -46,10 +47,24 @@
           <li>📍 Florencia, Caquetá (Colombia)</li>
           <li>📞 +57 315 431 1266</li>
           <li>🙏 Evangelical Christian — IPUC member</li>
+          <li>💼 Works at SENA — Software Development Technologist</li>
         </ul>
       </td>
     </tr>
   </table>
+</div>
+
+---
+
+## 💼 Work Experience
+
+<div style="background:#0d1117; border:1px solid #30363d; border-radius:12px; padding:20px;">
+
+| Role | Organization | Period | Description |
+|------|-------------|--------|-------------|
+| **Software Developer** | SENA — Servicio Nacional de Aprendizaje | 2024–Present | Developed and maintained <strong>MFCampeSENA</strong>, an operational inventory management system for SENA's warehouse in Caquetá. Full-stack development, database management, and process optimization. |
+| **Student & Trainee** | SENA & UNAD | Ongoing | Full-stack web development, multimedia engineering studies, and continuous learning. |
+
 </div>
 
 ---
@@ -60,12 +75,9 @@
 
 | Skill | Badge |
 |-------|-------|
-| C# / .NET | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white) |
-| Cybersecurity | ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-2C3E50?style=for-the-badge&logo=shield-alt&logoColor=white) |
-| UX/UI (Figma) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
-| Unity | ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) |
-| Godot | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white) |
-| Penetration Testing | ![Pentest](https://img.shields.io/badge/-PenTest-FF5733?style=for-the-badge&logo=lock&logoColor=white) |
+| Game Dev (Unity/Godot) | ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white) |
+| Advanced Cybersecurity | ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-2C3E50?style=for-the-badge&logo=shield-alt&logoColor=white) |
+| Mechatronics | ![Mechatronics](https://img.shields.io/badge/-Mechatronics-FF5733?style=for-the-badge&logo=robot&logoColor=white) |
 
 </div>
 
@@ -80,10 +92,19 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+</p>
+
+**⚡ Frontend Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Nuxt-000000?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
 </p>
 
 **🛠️ Tools & Frameworks**
@@ -92,28 +113,59 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans">
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron">
+</p>
+
+**☁️ Backend & Database**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
+</p>
+
+**🚀 DevOps & Deployment**
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
 </p>
 
 </div>
 
 ---
 
-## 🚀 Academic Projects
+## 🚀 Featured Projects
 
 <div style="background:#0d1117; border:1px solid #30363d; border-radius:12px; padding:20px; overflow-x:auto;">
 
+### 🏢 Enterprise / Professional
+
+| # | Project | Description | Tech | Status |
+|---|---------|-------------|------|--------|
+| 1 | **MFCampeSENA** | Operational inventory management system for SENA warehouse in Caquetá. Built for real production use at SENA. Handles stock, requests, and warehouse operations | `PWA` `Supabase` `PostgreSQL` | 🔒 Private (SENA) |
+| 2 | **Sistema Electoral Florencia** | Electoral management system for the municipality of Florencia, Caquetá. Full admin dashboard, real-time results | `Laravel` `MySQL` `MongoDB` `Docker` | 🔒 Private |
+| 3 | **Red de Ventas** | Sales network platform with referral system, commissions, and admin dashboard | `Next.js` `Supabase` `PostgreSQL` | 🔒 Private |
+| 4 | **App Bíblica** | Bible application with characters, dashboard, notifications, and multi-language support | `Nuxt.js` `Docker` `Supabase` | 🔒 Private |
+
+### 🌐 Public / Personal
+
 | # | Project | Description | Tech | Link |
 |---|---------|-------------|------|------|
-| 1 | **Learn with SENA** | Interactive English learning platform (A1-B1 levels) with exercises and topic navigation | `HTML` `CSS` `JS` | 🔗 [View Repo](https://github.com/luKshaDEV/learn-with-sena) |
-| 2 | **Miner Game** | Arcade-style game with Canvas animations, collisions and resource mining | `JS` `Canvas` | 🔗 [View Repo](https://github.com/luKshaDEV/miner-game) |
-| 3 | **Bar Management System** | Web app to manage orders by table, products and totals | `HTML` `CSS` `JS` | 🔗 [View Repo](https://github.com/luKshaDEV/bar-management) |
-| 4 | **Biology Educational Resource** | Interactive globe with Three.js for 6th grade biology concepts | `HTML` `CSS` `JS` `Three.js` | 🔗 [View Repo](https://github.com/luKshaDEV/biology-resource) |
-| 5 | **Caquetá Ecotourism System** | Java app showcasing tourist sites in Caquetá region with map integration | `Java` `Swing` | 🔗 [View Repo](https://github.com/luKshaDEV/caqueta-ecotourism) |
-| 6 | **World Cup Simulator** | FIFA-style tournament simulator with groups, matches and results | `Java` | 🔗 [View Repo](https://github.com/luKshaDEV/world-cup-simulator) |
+| 5 | **SpeakRush** | Interactive English learning platform with AI-powered vocabulary, grammar exercises, and phrase practice | `Next.js` `TypeScript` `Tailwind` `Supabase` | 🔗 [View Repo](https://github.com/luKshaDEV/speakrush) |
+| 6 | **PasswordManager** | Secure password management desktop app built with Electron and encrypted storage | `Electron` `TypeScript` `Node.js` | 🔗 [View Repo](https://github.com/luKshaDEV/PasswordManagement) |
+| 7 | **Idle Miner** | Browser-based idle/clicker game with animations, PWA support, and offline progression | `JavaScript` `Canvas` `PWA` | 🔗 [View Repo](https://github.com/luKshaDEV/Idle-minner) |
+| 8 | **LWS** | AI-powered English learning assistant with vocabulary, grammar, and phrase organization tools | `Next.js` `TypeScript` `Tailwind` | 🔗 [View Repo](https://github.com/luKshaDEV/LWS) |
+| 9 | **BarWeb** | Web app to manage orders by table, products and totals for bar/restaurant | `HTML` `CSS` `JS` | 🔗 [View Repo](https://github.com/luKshaDEV/BarWeb) |
+
+### 📚 Academic / Educational
+
+| # | Project | Description | Tech |
+|---|---------|-------------|------|
+| 10 | **Biology Resource (Three.js)** | Interactive globe for 6th grade biology with Three.js visualizations | `HTML` `CSS` `JS` `Three.js` |
+| 11 | **Caquetá Ecotourism System** | Java desktop app showcasing tourist sites in Caquetá region | `Java` `Swing` |
+| 12 | **World Cup Simulator** | FIFA-style tournament simulator with groups, matches and results | `Java` |
 
 </div>
 
@@ -149,22 +201,14 @@
 <!--
 ╔═══════════════════════════════════════════════════════════════╗
 ║  📝 EDITOR'S NOTE                                            ║
-║  Replace the repo URLs in the Projects section with your     ║
-║  actual repository names. The format used is:                 ║
-║  github.com/luKshaDEV/<repo-name>                         ║
+║  Update these social links with your real usernames:        ║
+║  - linkedin.com/in/luKshaDEV                                ║
+║  - twitter.com/luKshaDEV                                     ║
+║  - instagram.com/luKshaDEV                                   ║
+║  - youtube.com/@luKshaDEV                                    ║
 ║                                                               ║
-║  Update these URLs:                                           ║
-║  - learn-with-sena         → your actual repo slug            ║
-║  - miner-game              → your actual repo slug            ║
-║  - bar-management          → your actual repo slug            ║
-║  - biology-resource        → your actual repo slug            ║
-║  - caqueta-ecotourism       → your actual repo slug            ║
-║  - world-cup-simulator     → your actual repo slug            ║
-║                                                               ║
-║  Also update these social links:                              ║
-║  - linkedin.com/in/luKshaDEV                               ║
-║  - twitter.com/luKshaDEV                                   ║
-║  - instagram.com/luKshaDEV                                 ║
-║  - youtube.com/@luKshaDEV                                  ║
+║  Update repo URLs if they differ from the names used.        ║
+║  Mark private projects as 🔒 Private — mention them         ║
+║  publicly only if you have permission.                      ║
 ╚═══════════════════════════════════════════════════════════════╝
 -->
