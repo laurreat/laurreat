@@ -1,93 +1,170 @@
-![Profile views](https://komarev.com/ghpvc/?username=luisurreadev&style=flat&color=blue)
+<!-- ═══════════════════════════════════════════════════════════════
+     💫 Hey, I'm Luis Alberto Urrea Trujillo — Welcome to my profile!
+     ═══════════════════════════════════════════════════════════════ -->
 
-<h1 align="center">Hi, I'm Luis Alberto Urrea! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=luKshaDEV&style=flat&color=blue&label=Profile+Views&message=since+2025" alt="Profile views"/>
+</p>
 
-<div align="center">
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Hi, I'm <span style="background: linear-gradient(90deg, #4A90E2, #9B59B6, #E74C3C); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Luis Alberto Urrea Trujillo</span>!
+</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=4A90E2&center=true&vCenter=true&width=900&lines=Software+Development+Technologist;Multimedia+Engineering+Student;Technology+and+Video+Game+Lover;Passionate+about+Learning+and+Creating)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4A90E2&center=true&vCenter=true&width=750&lines=Software+Development+Technologist;Multimedia+Engineering+Student;Technology+%26+Video+Game+Lover;Passionate+about+Learning+%26+Creating" alt="Typing SVG">
+</p>
+
+<p align="center">
+  <a href="https://github.com/luKshaDEV" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/luKshaDEV" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/luKshaDEV" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter/X"></a>
+  <a href="https://instagram.com/luKshaDEV" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://youtube.com/@luKshaDEV" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="mailto:luis2005.320@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+---
+
+## ⚡ About Me
+
+<div style="background:#0d1117; border:1px solid #30363d; border-radius:12px; padding:20px;">
+  <p>🚀 <strong>Developer in training</strong> with studies at <strong>SENA</strong> and <strong>UNAD</strong>. Passionate about creating digital solutions combining <strong>web development</strong>, <strong>multimedia design</strong> and <strong>logical thinking</strong>.</p>
+  <p>I dream of growing as a programmer, designer, gamer and future <strong>mechatronics engineer</strong>. I also explore cybersecurity, psychology and music.</p>
+
+  <table align="center">
+    <tr>
+      <td width="50%" valign="top">
+        <ul>
+          <li>🎮 Video game fanatic — analyzing mechanics and game design</li>
+          <li>🎧 Music production enthusiast — instruments & creative arts</li>
+          <li>🌐 Always learning new technologies</li>
+        </ul>
+      </td>
+      <td width="50%" valign="top">
+        <ul>
+          <li>📍 Florencia, Caquetá (Colombia)</li>
+          <li>📞 +57 315 431 1266</li>
+          <li>🙏 Evangelical Christian — IPUC member</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🎓 Currently Learning
+
+<div style="display:flex; gap:10px; flex-wrap:wrap; justify-content:center;">
+
+| Skill | Badge |
+|-------|-------|
+| C# / .NET | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white) |
+| Cybersecurity | ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-2C3E50?style=for-the-badge&logo=shield-alt&logoColor=white) |
+| UX/UI (Figma) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
+| Unity | ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) |
+| Godot | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white) |
+| Penetration Testing | ![Pentest](https://img.shields.io/badge/-PenTest-FF5733?style=for-the-badge&logo=lock&logoColor=white) |
 
 </div>
 
 ---
 
-## 👨‍💻 About me
+## 🛠️ Technical Skills
 
-I'm a developer in training with studies at SENA and UNAD. I am passionate about creating digital solutions combining web development, multimedia design and logical thinking. I dream of continuing to grow as a programmer, designer, gamer and future mechatronics engineer. I also explore topics such as cybersecurity, psychology and music.
+<div>
 
-- 🎮 Video game fanatic, I love analyzing mechanics and game design.
-- 🎧 I'm interested in music production, playing instruments and creating artistic things.
-- 🌐 I'm always learning new technologies and techniques.
-- 🙏 Evangelical Christian, active member of IPUC.
+**💻 Languages**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+</p>
 
----
+**🛠️ Tools & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
+</p>
 
-## 📚 I am currently learning:
+</div>
 
-- C#, .NET
-- Basic cybersecurity and penetration testing
-- UX/UI design principles with Figma
-- Video game development (Unity and Godot, in exploration)
-
----
-
-## 🔧 Technical Skills.
-
-**Languages:** 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) 
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) 
-![C Sharp](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-**Tools and Frameworks:** 
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) 
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) 
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) 
-![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white) 
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=Canva&logoColor=white) 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) 
-![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white)
 ---
 
 ## 🚀 Academic Projects
 
-| Project                             | Description                                                                                               | Technologies     |
-|-------------------------------------|-----------------------------------------------------------------------------------------------------------|------------------|
-| Learn with SENA                     | Interactive platform to learn English at A1, A2, and B1 levels. Includes exercises and topic navigation. | HTML, CSS, JS    |
-| Miner Game                          | Arcade-style game built with Canvas and JavaScript. Features animations, collisions, and resource mining. | JS (Canvas)      |
-| Bar Management System               | Web app to manage orders by table, products, and totals. Clean and functional interface.                  | HTML, CSS, JS    |
-| Biology Educational Resource        | Interactive globe using Three.js designed for 6th grade students to explore basic biology concepts.       | HTML, CSS, JS, Three.js |
-| Caquetá Ecotourism System           | Java application showcasing tourist sites from three municipalities in the Caquetá region with a map.     | Java (Swing/AWT) |
-| World Cup Simulator                 | Java-based simulator for a FIFA-style tournament, including groups, matches, and results logic.           | Java             |
+<div style="background:#0d1117; border:1px solid #30363d; border-radius:12px; padding:20px; overflow-x:auto;">
 
-*📁 Repositories will be available soon on this profile.*
+| # | Project | Description | Tech | Link |
+|---|---------|-------------|------|------|
+| 1 | **Learn with SENA** | Interactive English learning platform (A1-B1 levels) with exercises and topic navigation | `HTML` `CSS` `JS` | 🔗 [View Repo](https://github.com/luKshaDEV/learn-with-sena) |
+| 2 | **Miner Game** | Arcade-style game with Canvas animations, collisions and resource mining | `JS` `Canvas` | 🔗 [View Repo](https://github.com/luKshaDEV/miner-game) |
+| 3 | **Bar Management System** | Web app to manage orders by table, products and totals | `HTML` `CSS` `JS` | 🔗 [View Repo](https://github.com/luKshaDEV/bar-management) |
+| 4 | **Biology Educational Resource** | Interactive globe with Three.js for 6th grade biology concepts | `HTML` `CSS` `JS` `Three.js` | 🔗 [View Repo](https://github.com/luKshaDEV/biology-resource) |
+| 5 | **Caquetá Ecotourism System** | Java app showcasing tourist sites in Caquetá region with map integration | `Java` `Swing` | 🔗 [View Repo](https://github.com/luKshaDEV/caqueta-ecotourism) |
+| 6 | **World Cup Simulator** | FIFA-style tournament simulator with groups, matches and results | `Java` | 🔗 [View Repo](https://github.com/luKshaDEV/world-cup-simulator) |
 
----
-
-## 📫 contact me at
-
-- 📍 Florencia, Caquetá (Colombia)  
-- 📧 luis2005.320@gmail.com
-- 📞 +57 3154311266
+</div>
 
 ---
 
-## 🧠 Phrase that inspires me.
+## 📊 GitHub Statistics
 
-> "Don't settle for what you know. Learn, fail, repeat, and above all, believe you can make it!"
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luKshaDEV&show_icons=true&locale=en&theme=tokyonight&border_color=30363d&title_color=4A90E2&text_color=cccccc" alt="GitHub Stats" width="49%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luKshaDEV&layout=compact&locale=en&theme=tokyonight&border_color=30363d&title_color=4A90E2&text_color=cccccc" alt="Top Languages" width="49%"/>
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=luKshaDEV&theme=tokyonight&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69&border_color=30363d" alt="GitHub Streak" width="49%"/>
+</p>
+
+---
+
+## 💡 Phrase That Inspires Me
+
+<div style="background: linear-gradient(135deg, #0d1117, #161b22); border-left: 4px solid #4A90E2; border-radius:8px; padding:20px; margin:10px 0;">
+  <p style="font-size:1.1em; color:#cccccc; font-style:italic; margin:0;">
+    "Don't settle for what you know. Learn, fail, repeat, and above all, <span style="color:#4A90E2; font-weight:bold;">believe you can make it!</span>"
+  </p>
+</div>
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
-  <p align="center"><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=alamin-babu&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
-  <p align="center"><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=alamin-babu&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
-<br>
+<p align="center"><small>✨ Última actualización: Mayo 2026 · Made with ❤️ by luKshaDEV</small></p>
 
 ---
 
-*Última actualización: Julio 2025*
-
----
+<!--
+╔═══════════════════════════════════════════════════════════════╗
+║  📝 EDITOR'S NOTE                                            ║
+║  Replace the repo URLs in the Projects section with your     ║
+║  actual repository names. The format used is:                 ║
+║  github.com/luKshaDEV/<repo-name>                         ║
+║                                                               ║
+║  Update these URLs:                                           ║
+║  - learn-with-sena         → your actual repo slug            ║
+║  - miner-game              → your actual repo slug            ║
+║  - bar-management          → your actual repo slug            ║
+║  - biology-resource        → your actual repo slug            ║
+║  - caqueta-ecotourism       → your actual repo slug            ║
+║  - world-cup-simulator     → your actual repo slug            ║
+║                                                               ║
+║  Also update these social links:                              ║
+║  - linkedin.com/in/luKshaDEV                               ║
+║  - twitter.com/luKshaDEV                                   ║
+║  - instagram.com/luKshaDEV                                 ║
+║  - youtube.com/@luKshaDEV                                  ║
+╚═══════════════════════════════════════════════════════════════╝
+-->
