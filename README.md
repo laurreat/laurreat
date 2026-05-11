@@ -173,6 +173,8 @@
 
 ## 📊 GitHub Statistics
 
+> ⚠️ **Note:** The stats cards below use a public API. If they don't load, it's likely due to GitHub's rate limit on the free tier. To enable them permanently, add a GitHub Personal Access Token.
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=luKshaDEV&show_icons=true&locale=en&theme=tokyonight&border_color=30363d&title_color=4A90E2&text_color=cccccc" alt="GitHub Stats" width="49%"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luKshaDEV&layout=compact&locale=en&theme=tokyonight&border_color=30363d&title_color=4A90E2&text_color=cccccc" alt="Top Languages" width="49%"/>
@@ -194,7 +196,7 @@
 
 ---
 
-<p align="center"><small>✨ Última actualización: Mayo 2026 · Made with ❤️ by luKshaDEV</small></p>
+<p align="center"><small>✨ Last updated: May 2026 · Made with ❤️ by luKshaDEV</small></p>
 
 ---
 
