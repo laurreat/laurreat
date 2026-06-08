@@ -4,8 +4,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=laurreat&style=for-the-badge&label=VISITAS&color=00FF41&labelColor=0d1117" alt="Visitas al perfil"/>
-  <img src="https://img.shields.io/github/followers/laurreat?style=for-the-badge&color=00FF41&labelColor=0d1117&label=SEGUIDORES" alt="Seguidores"/>
-  <img src="https://img.shields.io/github/stars/laurreat?style=for-the-badge&color=00FF41&labelColor=0d1117&label=ESTRELLAS" alt="Estrellas"/>
 </p>
 
 <br/>
@@ -48,28 +46,24 @@
 
 ## ⚡ Sobre Mí
 
+Soy **Luis Alberto Urrea Trujillo** (_luKshaDEV_), Tecnólogo en Desarrollo de Software egresado del **SENA Caquetá** y actual estudiante de **Ingeniería Multimedia** en la **UNAD**. Me apasiona crear soluciones digitales completas, desde el frontend hasta el backend, y estoy abierto a oportunidades laborales como desarrollador.
+
 ```yaml
-nombre: Luis Alberto Urrea Trujillo
-alias: luKshaDEV
-ubicación: Florencia, Caquetá, Colombia
-formación:
-  - Tecnólogo en Desarrollo de Software @ SENA Caquetá (2024 - 2026)
-  - Ingeniería Multimedia @ UNAD (en curso)
-inglés: B1 (estudiando en academia)
-objetivo: Abierto a oportunidades laborales como desarrollador de software
-intereses:
-  - Desarrollo Full-Stack
-  - Desarrollo Móvil
-  - Videojuegos (Unity, Godot)
-  - Ciberseguridad
+📍 Ubicación: Florencia, Caquetá, Colombia
+🎓 Formación:
+  - Tecnólogo en Desarrollo de Software @ SENA Caquetá (2024 - 2026) ✅
+  - Ingeniería Multimedia @ UNAD (en curso) 📖
+💼 Experiencia: 6 meses de etapa productiva en SENA (Soporte y Desarrollo)
+🌐 Inglés: B1 (estudiando en academia)
+🎯 Objetivo: Desarrollador de Software — Full-Stack / Móvil / Videojuegos
+💡 Intereses:
+  - Full-Stack | Móvil | Videojuegos (Unity, Godot)
+  - Ciberseguridad | IoT y Mechatrónica
   - Producción Musical
-  - Mechatrónica e IoT
-credo: Cristiano Evangélico (IPUC)
+🙏 Credo: Cristiano Evangélico (IPUC)
 ```
 
-<p align="center">
-  <i>"No te conformes con lo que sabes. Aprende, falla, repite y, sobre todo, <b>cree que puedes lograrlo</b>"</i>
-</p>
+> *"No te conformes con lo que sabes. Aprende, falla, repite y, sobre todo, cree que puedes lograrlo"*
 
 ---
 
@@ -79,12 +73,22 @@ credo: Cristiano Evangélico (IPUC)
 |-----|-------------|---------|-------------|
 | **Desarrollador de Software (Etapa Productiva)** | SENA — Servicio Nacional de Aprendizaje | Nov 2025 – May 2026 | Desarrollo y mantenimiento de sistemas empresariales para el almacén del SENA Caquetá. Soporte técnico, desarrollo full-stack, administración de bases de datos y optimización de procesos. |
 
+<!--
+🧩 PLANTILLA PARA AGREGAR MÁS EXPERIENCIA:
+| **Rol** | Empresa | Mes Año – Mes Año | Descripción breve del cargo y logros. |
+-->
+
 ## 🎓 Formación Académica
 
 | Título | Institución | Período | Estado |
 |--------|------------|---------|--------|
 | **Tecnólogo en Desarrollo de Software** | SENA — Regional Caquetá | Ene 2024 – Oct 2025 (lectiva) / Nov 2025 – May 2026 (productiva) | ✅ Finalizado |
 | **Ingeniería Multimedia** | UNAD — Universidad Nacional Abierta y a Distancia | En curso | 📖 Cursando |
+
+<!--
+🧩 PLANTILLA PARA AGREGAR MÁS FORMACIÓN:
+| **Título** | Institución | Período | Estado |
+-->
 
 ---
 
@@ -133,6 +137,12 @@ credo: Cristiano Evangélico (IPUC)
 
 ## 🚀 Proyectos Destacados
 
+<!-- ============================================================
+     🏢 EMPRESARIALES / PROFESIONALES
+     Agrega un nuevo proyecto copiando esta plantilla:
+     | # | **Nombre** | Descripción breve. | `Tech1` `Tech2` | 🔒 Privado |
+     ============================================================ -->
+
 ### 🏢 Empresariales / Profesionales
 
 | # | Proyecto | Descripción | Tecnologías | Estado |
@@ -142,15 +152,27 @@ credo: Cristiano Evangélico (IPUC)
 | 3 | **Red de Ventas** | Plataforma de red de ventas con sistema de referidos, comisiones y panel administrativo. | `Next.js` `Supabase` `PostgreSQL` | 🔒 Archivado |
 | 4 | **App Bíblica** | Aplicación bíblica con personajes, dashboard, notificaciones y soporte multi-idioma. | `Nuxt.js` `Docker` `Supabase` | 🔒 Privado |
 
+<!-- ============================================================
+     🌐 PÚBLICOS / PERSONALES
+     Plantilla:
+     | # | **Nombre** | Descripción breve. | `Tech1` `Tech2` | [Ver Repo](url) |
+     ============================================================ -->
+
 ### 🌐 Públicos / Personales
 
 | # | Proyecto | Descripción | Tecnologías | Enlace |
 |---|---------|-------------|-------------|--------|
-| 5 | **SpeakRush** | Plataforma interactiva de aprendizaje de inglés con vocabulario, gramática y ejercicios potenciados por IA. | `Next.js` `TypeScript` `Tailwind` `Supabase` | [Ver Repo](https://github.com/laurreat/speakrush) |
-| 6 | **PasswordManager** | Gestor de contraseñas seguro de escritorio construido con Electron y almacenamiento encriptado. | `Electron` `TypeScript` `Node.js` | [Ver Repo](https://github.com/laurreat/PasswordManagement) |
-| 7 | **Idle Miner** | Juego inactivo/idler en navegador con animaciones, soporte PWA y progresión offline. | `JavaScript` `Canvas` `PWA` | [Ver Repo](https://github.com/laurreat/Idle-minner) |
+| 5 | **SpeakRush** | Plataforma interactiva de aprendizaje de inglés con vocabulario y ejercicios potenciados por IA. | `Next.js` `TypeScript` `Tailwind` `Supabase` | [Ver Repo](https://github.com/laurreat/speakrush) |
+| 6 | **PasswordManager** | Gestor de contraseñas seguro de escritorio con Electron y almacenamiento encriptado. | `Electron` `TypeScript` `Node.js` | [Ver Repo](https://github.com/laurreat/PasswordManagement) |
+| 7 | **Idle Miner** | Juego inactivo/idler en navegador con animaciones, PWA y progresión offline. | `JavaScript` `Canvas` `PWA` | [Ver Repo](https://github.com/laurreat/Idle-minner) |
 | 8 | **LWS** | Asistente de aprendizaje de inglés con IA: vocabulario, gramática y organización de frases. | `Next.js` `TypeScript` `Tailwind` | [Ver Repo](https://github.com/laurreat/LWS) |
 | 9 | **BarWeb** | App web para gestionar pedidos por mesa, productos y totales para bar/restaurante. | `HTML` `CSS` `JS` | [Ver Repo](https://github.com/laurreat/BarWeb) |
+
+<!-- ============================================================
+     📚 ACADÉMICOS / EDUCATIVOS
+     Plantilla:
+     | # | **Nombre** | Descripción breve. | `Tech1` `Tech2` |
+     ============================================================ -->
 
 ### 📚 Académicos / Educativos
 
@@ -160,53 +182,12 @@ credo: Cristiano Evangélico (IPUC)
 | 11 | **Sistema Ecoturístico Caquetá** | App de escritorio en Java mostrando sitios turísticos de la región del Caquetá. | `Java` `Swing` |
 | 12 | **World Cup Simulator** | Simulador de torneo estilo FIFA con grupos, partidos y resultados. | `Java` |
 
----
+<!--
+  📌 Para agregar un proyecto nuevo, copia una fila existente
+  y completa los datos. Ejemplo:
 
-## 📊 Estadísticas de GitHub
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=laurreat&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&token=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" alt="Estadísticas de GitHub"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurreat&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&token=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" alt="Lenguajes más usados"/>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=laurreat&hide_border=true&background=0d1117&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=ffffff&dates=ffffff" alt="Racha de contribuciones"/>
-</p>
-
----
-
-## 🏆 Trofeos de GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=laurreat&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=2&column=4&token=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" alt="Trofeos de GitHub"/>
-</p>
-
----
-
-## 📈 Gráfico de Actividad
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=laurreat&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=00FF41&line=00FF41&point=ffffff&color=00FF41" alt="Gráfico de actividad en GitHub"/>
-</p>
-
----
-
-## 🐍 Serpiente de Contribuciones
-
-<details>
-  <summary><b>Haz clic para ver la animación de la serpiente</b></summary>
-  <br/>
-
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/laurreat/laurreat/output/github-contribution-grid-snake-dark.svg" alt="Serpiente de contribuciones"/>
-  </p>
-</details>
+  | 13 | **Mi Nuevo Proyecto** | Descripción de lo que hace. | `React` `Node.js` | [Ver Repo](url) |
+-->
 
 ---
 
@@ -226,8 +207,8 @@ credo: Cristiano Evangélico (IPUC)
 ║  - Reemplaza "#" en el badge de Portafolio con tu URL real   ║
 ║  - Agrega enlace de CV/Hoja de Vida cuando lo tengas online  ║
 ║  - Agrega certificaciones cuando las tengas listas           ║
-║  - Para la serpiente: haz push de .github/workflows/snake.yml║
-║    y espera a que el Action se ejecute una vez               ║
+║  - Usa las plantillas 🧩 para agregar más experiencia o      ║
+║    proyectos fácilmente                                      ║
 ║  - Actualiza la fecha cuando sea necesario                   ║
 ╚═══════════════════════════════════════════════════════════════╝
 -->
