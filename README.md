@@ -164,30 +164,36 @@ credo: Cristiano Evangélico (IPUC)
 
 ## 📊 Estadísticas de GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laurreat&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" alt="Estadísticas de GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurreat&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" alt="Lenguajes más usados"/>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=laurreat&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&token=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" alt="Estadísticas de GitHub"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurreat&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&token=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" alt="Lenguajes más usados"/>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=laurreat&hide_border=true&background=0d1117&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=ffffff&dates=ffffff" alt="Racha de contribuciones"/>
-</div>
+</p>
 
 ---
 
 ## 🏆 Trofeos de GitHub
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=laurreat&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="Trofeos de GitHub"/>
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=laurreat&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=2&column=4&token=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" alt="Trofeos de GitHub"/>
+</p>
 
 ---
 
 ## 📈 Gráfico de Actividad
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=laurreat&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=00FF41&line=00FF41&point=ffffff&color=00FF41" alt="Gráfico de actividad en GitHub"/>
-</div>
+</p>
 
 ---
 
@@ -197,9 +203,9 @@ credo: Cristiano Evangélico (IPUC)
   <summary><b>Haz clic para ver la animación de la serpiente</b></summary>
   <br/>
 
-  <div align="center">
+  <p align="center">
     <img src="https://raw.githubusercontent.com/laurreat/laurreat/output/github-contribution-grid-snake-dark.svg" alt="Serpiente de contribuciones"/>
-  </div>
+  </p>
 </details>
 
 ---
@@ -221,6 +227,7 @@ credo: Cristiano Evangélico (IPUC)
 ║  - Agrega enlace de CV/Hoja de Vida cuando lo tengas online  ║
 ║  - Agrega certificaciones cuando las tengas listas           ║
 ║  - Para la serpiente: haz push de .github/workflows/snake.yml║
+║    y espera a que el Action se ejecute una vez               ║
 ║  - Actualiza la fecha cuando sea necesario                   ║
 ╚═══════════════════════════════════════════════════════════════╝
 -->
