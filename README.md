@@ -3,9 +3,9 @@
      ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=luKshaDEV&style=for-the-badge&label=VISITAS&color=00FF41&labelColor=0d1117" alt="Visitas al perfil"/>
-  <img src="https://img.shields.io/github/followers/luKshaDEV?style=for-the-badge&color=00FF41&labelColor=0d1117&label=SEGUIDORES" alt="Seguidores"/>
-  <img src="https://img.shields.io/github/stars/luKshaDEV?style=for-the-badge&color=00FF41&labelColor=0d1117&label=ESTRELLAS" alt="Estrellas"/>
+  <img src="https://komarev.com/ghpvc/?username=laurreat&style=for-the-badge&label=VISITAS&color=00FF41&labelColor=0d1117" alt="Visitas al perfil"/>
+  <img src="https://img.shields.io/github/followers/laurreat?style=for-the-badge&color=00FF41&labelColor=0d1117&label=SEGUIDORES" alt="Seguidores"/>
+  <img src="https://img.shields.io/github/stars/laurreat?style=for-the-badge&color=00FF41&labelColor=0d1117&label=ESTRELLAS" alt="Estrellas"/>
 </p>
 
 <br/>
@@ -32,7 +32,7 @@
 
 <!-- REDES SOCIALES -->
 <p align="center">
-  <a href="https://github.com/luKshaDEV" target="_blank"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub"/></a>
+  <a href="https://github.com/laurreat" target="_blank"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub"/></a>
   <a href="https://linkedin.com/in/luKshaDEV" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn"/></a>
   <a href="https://twitter.com/luKshaDEV" target="_blank"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=00FF41" alt="X"/></a>
   <a href="https://instagram.com/luKshaDEV" target="_blank"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00FF41" alt="Instagram"/></a>
@@ -146,11 +146,11 @@ credo: Cristiano Evangélico (IPUC)
 
 | # | Proyecto | Descripción | Tecnologías | Enlace |
 |---|---------|-------------|-------------|--------|
-| 5 | **SpeakRush** | Plataforma interactiva de aprendizaje de inglés con vocabulario, gramática y ejercicios potenciados por IA. | `Next.js` `TypeScript` `Tailwind` `Supabase` | [Ver Repo](https://github.com/luKshaDEV/speakrush) |
-| 6 | **PasswordManager** | Gestor de contraseñas seguro de escritorio construido con Electron y almacenamiento encriptado. | `Electron` `TypeScript` `Node.js` | [Ver Repo](https://github.com/luKshaDEV/PasswordManagement) |
-| 7 | **Idle Miner** | Juego inactivo/idler en navegador con animaciones, soporte PWA y progresión offline. | `JavaScript` `Canvas` `PWA` | [Ver Repo](https://github.com/luKshaDEV/Idle-minner) |
-| 8 | **LWS** | Asistente de aprendizaje de inglés con IA: vocabulario, gramática y organización de frases. | `Next.js` `TypeScript` `Tailwind` | [Ver Repo](https://github.com/luKshaDEV/LWS) |
-| 9 | **BarWeb** | App web para gestionar pedidos por mesa, productos y totales para bar/restaurante. | `HTML` `CSS` `JS` | [Ver Repo](https://github.com/luKshaDEV/BarWeb) |
+| 5 | **SpeakRush** | Plataforma interactiva de aprendizaje de inglés con vocabulario, gramática y ejercicios potenciados por IA. | `Next.js` `TypeScript` `Tailwind` `Supabase` | [Ver Repo](https://github.com/laurreat/speakrush) |
+| 6 | **PasswordManager** | Gestor de contraseñas seguro de escritorio construido con Electron y almacenamiento encriptado. | `Electron` `TypeScript` `Node.js` | [Ver Repo](https://github.com/laurreat/PasswordManagement) |
+| 7 | **Idle Miner** | Juego inactivo/idler en navegador con animaciones, soporte PWA y progresión offline. | `JavaScript` `Canvas` `PWA` | [Ver Repo](https://github.com/laurreat/Idle-minner) |
+| 8 | **LWS** | Asistente de aprendizaje de inglés con IA: vocabulario, gramática y organización de frases. | `Next.js` `TypeScript` `Tailwind` | [Ver Repo](https://github.com/laurreat/LWS) |
+| 9 | **BarWeb** | App web para gestionar pedidos por mesa, productos y totales para bar/restaurante. | `HTML` `CSS` `JS` | [Ver Repo](https://github.com/laurreat/BarWeb) |
 
 ### 📚 Académicos / Educativos
 
@@ -165,12 +165,12 @@ credo: Cristiano Evangélico (IPUC)
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luKshaDEV&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" alt="Estadísticas de GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luKshaDEV&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" alt="Lenguajes más usados"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=laurreat&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" alt="Estadísticas de GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurreat&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" alt="Lenguajes más usados"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=luKshaDEV&hide_border=true&background=0d1117&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=ffffff&dates=ffffff" alt="Racha de contribuciones"/>
+  <img src="https://streak-stats.demolab.com?user=laurreat&hide_border=true&background=0d1117&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=ffffff&dates=ffffff" alt="Racha de contribuciones"/>
 </div>
 
 ---
@@ -178,7 +178,7 @@ credo: Cristiano Evangélico (IPUC)
 ## 🏆 Trofeos de GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luKshaDEV&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="Trofeos de GitHub"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=laurreat&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="Trofeos de GitHub"/>
 </div>
 
 ---
@@ -186,7 +186,7 @@ credo: Cristiano Evangélico (IPUC)
 ## 📈 Gráfico de Actividad
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luKshaDEV&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=00FF41&line=00FF41&point=ffffff&color=00FF41" alt="Gráfico de actividad en GitHub"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=laurreat&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=00FF41&line=00FF41&point=ffffff&color=00FF41" alt="Gráfico de actividad en GitHub"/>
 </div>
 
 ---
@@ -198,7 +198,7 @@ credo: Cristiano Evangélico (IPUC)
   <br/>
 
   <div align="center">
-    <img src="https://raw.githubusercontent.com/luKshaDEV/luKshaDEV/output/github-contribution-grid-snake-dark.svg" alt="Serpiente de contribuciones"/>
+    <img src="https://raw.githubusercontent.com/laurreat/laurreat/output/github-contribution-grid-snake-dark.svg" alt="Serpiente de contribuciones"/>
   </div>
 </details>
 
