@@ -33,7 +33,7 @@
   <a href="https://github.com/laurreat" target="_blank"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub"/></a>
   <a href="https://linkedin.com/in/luKshaDEV" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn"/></a>
   <a href="https://twitter.com/luKshaDEV" target="_blank"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=00FF41" alt="X"/></a>
-  <a href="https://instagram.com/luKshaDEV" target="_blank"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00FF41" alt="Instagram"/></a>
+  <a href="https://instagram.com/luKsha.x" target="_blank"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00FF41" alt="Instagram"/></a>
   <a href="https://youtube.com/@luKshaDEV" target="_blank"><img src="https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=00FF41" alt="YouTube"/></a>
   <a href="https://kick.com/luKshaDEV" target="_blank"><img src="https://img.shields.io/badge/Kick-0d1117?style=for-the-badge&logo=kick&logoColor=00FF41" alt="Kick"/></a>
   <a href="mailto:luis2005.320@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Email"/></a>
