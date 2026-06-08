@@ -164,30 +164,30 @@ credo: Cristiano Evangélico (IPUC)
 
 ## 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=luKshaDEV&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" alt="Estadísticas de GitHub"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luKshaDEV&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" alt="Lenguajes más usados"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luKshaDEV&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" alt="Estadísticas de GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luKshaDEV&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" alt="Lenguajes más usados"/>
+</div>
 
-<p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?username=luKshaDEV&hide_border=true&background=0d1117&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=ffffff&dates=ffffff" alt="Racha de contribuciones"/>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=luKshaDEV&hide_border=true&background=0d1117&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=ffffff&dates=ffffff" alt="Racha de contribuciones"/>
+</div>
 
 ---
 
 ## 🏆 Trofeos de GitHub
 
-<p align="center">
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=luKshaDEV&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="Trofeos de GitHub"/>
-</p>
+</div>
 
 ---
 
 ## 📈 Gráfico de Actividad
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luKshaDEV&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=00FF41&line=00FF41&point=ffffff&color=00FF41" alt="Gráfico de actividad en GitHub" width="95%"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luKshaDEV&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=00FF41&line=00FF41&point=ffffff&color=00FF41" alt="Gráfico de actividad en GitHub"/>
+</div>
 
 ---
 
@@ -197,9 +197,9 @@ credo: Cristiano Evangélico (IPUC)
   <summary><b>Haz clic para ver la animación de la serpiente</b></summary>
   <br/>
 
-  <p align="center">
+  <div align="center">
     <img src="https://raw.githubusercontent.com/luKshaDEV/luKshaDEV/output/github-contribution-grid-snake-dark.svg" alt="Serpiente de contribuciones"/>
-  </p>
+  </div>
 </details>
 
 ---
