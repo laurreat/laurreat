@@ -60,6 +60,7 @@ Soy **Luis Alberto Urrea Trujillo** (_luKshaDEV_), Tecnólogo en Desarrollo de S
   - Full-Stack | Móvil | Videojuegos (Unity, Godot)
   - Ciberseguridad | IoT y Mechatrónica
   - Producción Musical
+
 ```
 
 > *"No te conformes con lo que sabes. Aprende, falla, repite y, sobre todo, cree que puedes lograrlo"*
