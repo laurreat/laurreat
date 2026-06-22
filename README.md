@@ -147,7 +147,7 @@ Soy **Luis Alberto Urrea Trujillo** (_luKshaDEV_), Tecnólogo en Desarrollo de S
 | # | Proyecto | Descripción | Tecnologías | Estado |
 |---|---------|-------------|-------------|--------|
 | 1 | **MFCampeSENA** | Sistema de gestión de inventarios para el almacén del SENA Caquetá. Desarrollado durante mi etapa productiva. | `PWA` `Supabase` `PostgreSQL` | 🔒 Archivado |
-| 2 | **Sistema Electoral Florencia** | Sistema de gestión electoral para la alcaldía de Florencia, Caquetá. Panel administrativo con resultados en tiempo real. | `Laravel` `MySQL` `MongoDB` `Docker` | 🔒 Privado |
+| 2 | **Sistema Electoral Florencia** | Sistema de gestión electoral para la alcaldía de Florencia, Caquetá. Panel administrativo con resultados en tiempo real. | `Laravel` `MySQL` `MongoDB` `Docker` | 🔒 Archivado |
 | 3 | **Red de Ventas** | Plataforma de red de ventas con sistema de referidos, comisiones y panel administrativo. | `Next.js` `Supabase` `PostgreSQL` | 🔒 Archivado |
 | 4 | **App Bíblica** | Aplicación bíblica con personajes, dashboard, notificaciones y soporte multi-idioma. | `Nuxt.js` `Docker` `Supabase` | 🔒 Privado |
 
@@ -159,13 +159,12 @@ Soy **Luis Alberto Urrea Trujillo** (_luKshaDEV_), Tecnólogo en Desarrollo de S
 
 ### 🌐 Públicos / Personales
 
-| # | Proyecto | Descripción | Tecnologías | Enlace |
-|---|---------|-------------|-------------|--------|
-| 5 | **SpeakRush** | Plataforma interactiva de aprendizaje de inglés con vocabulario y ejercicios potenciados por IA. | `Next.js` `TypeScript` `Tailwind` `Supabase` | [Ver Repo](https://github.com/laurreat/speakrush) |
+| # | Proyecto | Descripción | Tecnologías | Enlace Repo | Enace Web |
+|---|---------|-------------|-------------|--------|--------|
+| 5 | **SpeakRush** | Plataforma interactiva de aprendizaje de inglés con vocabulario y ejercicios potenciados por IA. | `Next.js` `TypeScript` `Tailwind` `Supabase` | Privado | [Ir a la Web](https://speakrush.vercel.app) |
 | 6 | **PasswordManager** | Gestor de contraseñas seguro de escritorio con Electron y almacenamiento encriptado. | `Electron` `TypeScript` `Node.js` | [Ver Repo](https://github.com/laurreat/PasswordManagement) |
-| 7 | **Idle Miner** | Juego inactivo/idler en navegador con animaciones, PWA y progresión offline. | `JavaScript` `Canvas` `PWA` | [Ver Repo](https://github.com/laurreat/Idle-minner) |
-| 8 | **LWS** | Asistente de aprendizaje de inglés con IA: vocabulario, gramática y organización de frases. | `Next.js` `TypeScript` `Tailwind` | [Ver Repo](https://github.com/laurreat/LWS) |
-| 9 | **BarWeb** | App web para gestionar pedidos por mesa, productos y totales para bar/restaurante. | `HTML` `CSS` `JS` | [Ver Repo](https://github.com/laurreat/BarWeb) |
+| 7 | **Idle Miner** | Juego inactivo/idler en navegador con animaciones, PWA y progresión offline. | `JavaScript` `Canvas` `PWA` | [Ver Repo](https://github.com/laurreat/Idle-minner) | [Ir a la Web](https://idle-minner.vercel.app) |
+| 9 | **BarWeb** | App web para gestionar pedidos por mesa, productos y totales para bar/restaurante. | `HTML` `CSS` `JS` | [Ver Repo](https://github.com/laurreat/BarWeb) | [Ir a la Web](https://bar-web-two.vercel.app/) |
 
 <!-- ============================================================
      📚 ACADÉMICOS / EDUCATIVOS
@@ -175,11 +174,10 @@ Soy **Luis Alberto Urrea Trujillo** (_luKshaDEV_), Tecnólogo en Desarrollo de S
 
 ### 📚 Académicos / Educativos
 
-| # | Proyecto | Descripción | Tecnologías |
-|---|---------|-------------|-------------|
-| 10 | **Biology Resource (Three.js)** | Globo terráqueo interactivo para biología de 6° grado con visualizaciones Three.js. | `HTML` `CSS` `JS` `Three.js` |
+| # | Proyecto | Descripción | Tecnologías | Encales Web y Repo |
+|---|---------|-------------|-------------|-------------|
+| 10 | **Biology Resource (Three.js)** | Globo terráqueo interactivo para biología de 6° grado con visualizaciones Three.js. | `HTML` `CSS` `JS` `Three.js` |  [Ver Repo](https://github.com/laurreat/Biology_W3B) [Ir a la Web](https://biology-w3-b.vercel.app/) |
 | 11 | **Sistema Ecoturístico Caquetá** | App de escritorio en Java mostrando sitios turísticos de la región del Caquetá. | `Java` `Swing` |
-| 12 | **World Cup Simulator** | Simulador de torneo estilo FIFA con grupos, partidos y resultados. | `Java` |
 
 <!--
   📌 Para agregar un proyecto nuevo, copia una fila existente
