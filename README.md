@@ -37,7 +37,7 @@
   <a href="https://youtube.com/@luKshaDEV" target="_blank"><img src="https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=00FF41" alt="YouTube"/></a>
   <a href="https://kick.com/luKshaDEV" target="_blank"><img src="https://img.shields.io/badge/Kick-0d1117?style=for-the-badge&logo=kick&logoColor=00FF41" alt="Kick"/></a>
   <a href="mailto:luis2005.320@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Email"/></a>
-  <a href="https://lukshadev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portafolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=00FF41" alt="Portafolio (próximamente)"/></a>
+  <a href="https://lukshadev.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portafolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=00FF41" alt="Portafolio/></a>
 </p>
 
 <br/>
