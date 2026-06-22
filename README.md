@@ -41,14 +41,15 @@
 </p>
 
 <br/>
+<br/>
+
 ---
 
-```yaml
 ## ⚡ Sobre Mí
 
 Soy **Luis Alberto Urrea Trujillo** (_luKshaDEV_), Tecnólogo en Desarrollo de Software egresado del **SENA Caquetá** y actual estudiante de **Ingeniería Multimedia** en la **UNAD**. Me apasiona crear soluciones digitales completas, desde el frontend hasta el backend, y estoy abierto a oportunidades laborales como desarrollador.
 
-
+```yaml
 📍 Ubicación: Florencia, Caquetá, Colombia
 🎓 Formación:
   - Tecnólogo en Desarrollo de Software @ SENA Caquetá (2024 - 2026) ✅
@@ -60,7 +61,7 @@ Soy **Luis Alberto Urrea Trujillo** (_luKshaDEV_), Tecnólogo en Desarrollo de S
   - Full-Stack | Móvil | Videojuegos (Unity, Godot)
   - Ciberseguridad | IoT y Mechatrónica
   - Producción Musical
-
+```
 > *"No te conformes con lo que sabes. Aprende, falla, repite y, sobre todo, cree que puedes lograrlo"*
 ---
 
